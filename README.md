@@ -1,6 +1,10 @@
+<img align="right" width="280" src="https://raw.githubusercontent.com/zhaoyangwang-nvidia/zhaoyangwang-nvidia/main/assets/productive-working.gif" alt="productive working" />
+
 ### Zhaoyang Wang
 
 LLM inference optimization @ NVIDIA — working on [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM).
+
+<br clear="both" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaoyangwang-nvidia/zhaoyangwang-nvidia/output/github-snake-dark.svg" />
